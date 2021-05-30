@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Django Girls blog</title>
+        {% block style %}{% endblock style %}
+    </head>
+    <body>
+
+        {% include "header.html" %}
+        {% block content %}
+
+        {% endblock content %}
+
+        {% include "footer.html"%}
+
+        {% block scripts %}
+
+
+        {% endblock scripts %}
+    </body>
+</html>
