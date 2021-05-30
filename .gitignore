@@ -33,3 +33,11 @@ venv.bak/
 # vscode
 .vscode/
 .idea/
+
+__pycache__
+*.pyc
+buildSite/.DS_Store
+*.DS_Store
+.idea/
+.idea/workspace.xml
+scratchFilesss
