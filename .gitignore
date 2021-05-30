@@ -34,7 +34,7 @@ venv.bak/
 .vscode/
 .idea/
 
-__pycache__
+
 *.pyc
 buildSite/.DS_Store
 *.DS_Store
